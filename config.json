@@ -1,42 +1,30 @@
 {
 	"head": {
-		"title": "SimonAKing",
-		"description": "Author:SimonAKing,Category:Personal Blog",
+		"title": "Rick",
+		"description": "Author:Rick,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "SimonAKing",
-		"subtitle": "Front back left right end engineer",
+		"title": "Rick",
+		"subtitle": "An engineer who loves coding",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
-		"name": "SimonAKing",
-		"signature": "Code & Input & Output",
+		"name": "Rick",
+		"signature": "Happy Wife Happy Life",
 		"avatar": {
 			"link": "assets/avatar.jpg",
 			"height": "100",
 			"width": "100"
 		},
 		"ul": {
-			"first": {
-				"href": "blog/",
-				"icon": "bokeyuan",
-				"text": "Blog"
-			},
+			"first": {},
+			"fourth": {},
+			"third": {},
 			"second": {
-				"href": "about/",
-				"icon": "xiaolian",
-				"text": "About"
-			},
-			"third": {
-				"href": "mailto:hi@simonaking.com",
-				"icon": "email",
-				"text": "Email"
-			},
-			"fourth": {
-				"href": "https://github.com/SimonAKing",
+				"href": "https://github.com/FangPengbo",
 				"icon": "github",
 				"text": "Github"
 			}
